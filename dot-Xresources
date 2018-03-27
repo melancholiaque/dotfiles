@@ -1,0 +1,67 @@
+URxvt.scrollBar: false
+URxvt.scrollBar_right: false
+URxvt.scrollBar_floating: false
+URxvt.scrollstyle: rxvt
+
+URxvt.font: xft:IBM 3270:size=10
+
+*background: #252525
+*foreground: #c0b18b
+
+#define BLACK   #1F3B27
+#define RED     #9CCE81
+#define GREEN   #BBFF95
+#define YELLOW  #C3FFAF
+#define BLUE    #607D4F
+#define MAGENTA #C3FFA1
+#define CYAN    #C3FFA1
+#define WHITE   #DCFFC8
+
+!black
+*color0:BLACK
+*color8:BLACK
+
+!red
+*color1:RED
+*color9:RED
+
+!green
+*color2:GREEN
+*color10:GREEN
+
+!yellow
+*color3:YELLOW
+*color11:YELLOW
+
+!blue
+*color4:BLUE
+*color12:BLUE
+
+!magenta
+*color5:MAGENTA
+*color13:MAGENTA
+
+!cyan
+*color6:CYAN
+*color14:CYAN
+
+!white
+*color7:WHITE
+*color15:WHITE
+
+rofi.font:			     IBM 3270 12
+rofi.modi:                           run
+rofi.width:                          20
+rofi.lines:                          15
+rofi.columns:                        1
+rofi.color-normal:                   #252525,BLUE,#252525,#c0b18b,#000000,BLUE
+rofi.color-window:                   #252525,BLUE
+rofi.bw:                             1
+rofi.location:                       4
+rofi.padding:                        5
+rofi.yoffset:                        0
+rofi.xoffset:                        -280
+rofi.disable-history:                true
+rofi.scroll-method:                  0
+rofi.display-run:                    fhtagn
+rofi.hide-scrollbar:		     true

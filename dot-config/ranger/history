@@ -1,0 +1,11 @@
+shell 
+shell unzip copland_os_enterprise___v2_by_the_blue_spyduck.zip 
+shell feh --bg 59117_main_full.jpg
+shell feh --bg-center 59117_main_full.jpg
+shell feh --bg-fill 59117_main_full.jpg
+shell feh --bg-centere 8bb5129991c18740b4aaa30be4a24b5e.jpg
+shell unzip clojure-1.8.0.zip
+shell mv mainpage.html discount
+open_with 
+open_with 
+delete
